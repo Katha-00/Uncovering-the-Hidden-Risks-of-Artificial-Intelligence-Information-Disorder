@@ -1,0 +1,7 @@
+
+# Consider tracking large artifacts with Git LFS:
+# Run locally (once): git lfs install
+# Then add patterns as needed, e.g.:
+# *.jsonl filter=lfs diff=lfs merge=lfs -text
+# *.csv   filter=lfs diff=lfs merge=lfs -text
+# *.pdf   filter=lfs diff=lfs merge=lfs -text

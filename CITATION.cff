@@ -1,0 +1,12 @@
+
+cff-version: 1.2.0
+message: "If you use this repository or its datasets, please cite the master's thesis."
+title: "Uncovering the Hidden Risks of Artificial Intelligence: Information Disorder"
+authors:
+  - family-names: "Pöcher"
+    given-names: "Katharina Rosa"
+  - family-names: "Kirrane"
+    given-names: "Sabrina"
+year: 2025
+version: "0.1.0"
+license: "MIT"
