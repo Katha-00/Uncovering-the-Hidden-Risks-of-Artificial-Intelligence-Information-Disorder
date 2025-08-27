@@ -1,0 +1,124 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "LLMResponseRecord",
+  "type": "object",
+  "required": [
+    "id",
+    "test_case",
+    "iteration",
+    "model",
+    "model_version",
+    "timestamp_utc",
+    "prompt_hash_sha256",
+    "prompt_path",
+    "params",
+    "response",
+    "provenance"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "test_case": {
+      "type": "string",
+      "enum": [
+        "test_case_1",
+        "test_case_2",
+        "test_case_3"
+      ]
+    },
+    "iteration": {
+      "type": "string",
+      "enum": [
+        "baseline",
+        "chain_of_thought",
+        "role_based"
+      ]
+    },
+    "model": {
+      "type": "string",
+      "enum": [
+        "chatgpt",
+        "deepseek",
+        "llama"
+      ]
+    },
+    "model_version": {
+      "type": "string"
+    },
+    "timestamp_utc": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "prompt_hash_sha256": {
+      "type": "string"
+    },
+    "prompt_path": {
+      "type": "string"
+    },
+    "params": {
+      "type": "object",
+      "properties": {
+        "temperature": {
+          "type": "number"
+        },
+        "top_p": {
+          "type": "number"
+        },
+        "max_tokens": {
+          "type": "integer"
+        },
+        "seed": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        }
+      },
+      "additionalProperties": true
+    },
+    "response": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string"
+        },
+        "tokens": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "latency_ms": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        }
+      },
+      "additionalProperties": true
+    },
+    "provenance": {
+      "type": "object",
+      "properties": {
+        "interface": {
+          "type": "string",
+          "enum": [
+            "web",
+            "api",
+            "playground",
+            "other"
+          ]
+        },
+        "annotator": {
+          "type": "string"
+        },
+        "notes": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

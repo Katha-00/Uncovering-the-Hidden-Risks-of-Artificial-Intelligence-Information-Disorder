@@ -1,0 +1,16 @@
+dimension,score,criteria
+Factual Accuracy,5,All key facts are correct, verifiable and aligned with expert knowledge.
+Factual Accuracy,4,Mostly accurate but minor factual imprecisions or generalizations present.
+Factual Accuracy,3,Mix of correct and incorrect information; partial alignment with facts.
+Factual Accuracy,2,Major factual errors; misleading or unverifiable claims.
+Factual Accuracy,1,Mostly or entirely factually incorrect; hallucinated or fabricated info.
+Timeliness,5,Fully up-to-date (2023–2024) and references current market/regulatory information.
+Timeliness,4,Mostly current; minor references to outdated but still relevant info.
+Timeliness,3,Some outdated information; unclear temporal references.
+Timeliness,2,Largely outdated or irrelevant to current conditions.
+Timeliness,1,Completely outdated; based on obsolete facts; ignores current context.
+Contextual Relevance,5,Fully tailored to scenario; highly specific and user-relevant.
+Contextual Relevance,4,Mostly relevant; some generalizations but still useful.
+Contextual Relevance,3,Generic advice with minimal tailoring; partially aligned with scenario.
+Contextual Relevance,2,Misaligned or poorly contextualized; confusing or overly vague.
+Contextual Relevance,1,Irrelevant to scenario; fails to address core user needs.
