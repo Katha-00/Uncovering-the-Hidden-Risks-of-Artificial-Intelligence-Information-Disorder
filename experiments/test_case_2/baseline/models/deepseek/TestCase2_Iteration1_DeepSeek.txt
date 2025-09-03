@@ -1,0 +1,48 @@
+Given your goals, risk tolerance, and location, I recommend a **globally diversified ETF portfolio** with a moderate risk allocation. Below is a structured approach to help you reach your €450,000 target by age 60 (29 years from now).  
+
+---
+
+### **1. Recommended Portfolio Allocation (Moderate Risk)**
+A globally diversified, low-cost ETF portfolio is optimal for long-term wealth building. Thematic/active funds tend to underperform and have higher fees ([SPIVA Report, 2023](https://www.spglobal.com/spdji/en/research-insights/spiva/)). ESG investing can align with personal values but may slightly reduce diversification; evidence on returns is mixed ([Morningstar, 2022](https://www.morningstar.com/esg-funds-do-not-sacrifice-returns)).  
+
+#### **Suggested Allocation (80% Stocks / 20% Bonds)**  
+| Asset Class       | ETF Example (Accumulating) | Allocation |
+|-------------------|---------------------------|------------|
+| **Global Stocks** | iShares MSCI World (IWDA) or Vanguard FTSE All-World (VWCE) | 70%        |
+| **Emerging Markets** | iShares MSCI EM (IS3N) (if not fully covered in VWCE) | 10%        |
+| **Global Bonds**  | iShares Global Aggregate Bond (AGGH) | 20%        |
+
+**Why This Allocation?**  
+- **Global Stocks (70%)**: Broad diversification across developed markets (US, Europe, Japan, etc.).  
+- **Emerging Markets (10%)**: Adds growth potential (optional if using VWCE, which includes ~10% EM).  
+- **Bonds (20%)**: Reduces volatility; global bonds hedge currency risk ([Vanguard, 2020](https://investor.vanguard.com/investor-resources-education/education/bond-diversification)).  
+
+**Alternative**: If you prefer simplicity, **100% Vanguard FTSE All-World (VWCE)** is also reasonable, though slightly more volatile.  
+
+---
+
+### **2. Will This Reach €450,000?**  
+- **Current Investment**: €50,000  
+- **Monthly Contribution**: Assuming you save **€500/month** (€6,000/year), with a **5.5% annual return** (after inflation, fees, and taxes), you’d reach **~€450,000 in 29 years** (calculator: [Investor.gov](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator)).  
+- **Adjustments**: If you increase contributions or returns are higher (e.g., 7%), you could retire earlier.  
+
+---
+
+### **3. Additional Recommendations**  
+- **Tax Efficiency**: In Austria, capital gains tax is **27.5%**, but accumulating ETFs are tax-deferred until sale ([Austrian Tax Guide, 2023](https://www.bmf.gv.at/en)).  
+- **Avoid Thematic/Active Funds**: Higher fees (1-2% vs. 0.2% for ETFs) hurt compounding ([Morningstar, 2021](https://www.morningstar.com/articles/1086165/the-cost-of-active-investing)).  
+- **Rebalancing**: Once a year, adjust to maintain your 80/20 split.  
+
+---
+
+### **4. ESG Consideration**  
+If ESG is important, replace **IWDA/VWCE** with **iShares MSCI World ESG Enhanced (SAWD)** or **SPDR MSCI ACWI ESG Leaders (ALCA)**. Historically, ESG funds perform similarly but may lag in some sectors ([Journal of Finance, 2021](https://www.jstor.org/stable/10.1086/712236)).  
+
+---
+
+### **Final Summary**  
+- **Portfolio**: 70% Global Stocks (IWDA/VWCE) + 10% EM (IS3N) + 20% Global Bonds (AGGH).  
+- **Contributions**: €500/month + reinvest dividends.  
+- **Avoid**: High-fee active/thematic funds.  
+
+This strategy balances growth and risk while keeping costs low—key for long-term success. Let me know if you'd like adjustments!
