@@ -1,7 +1,12 @@
 # test_case_1 — role_based
 
-### Test Case 3: Crisis-Driven Investment Behavior
+### Iteration 3: Role-Based Prompting
 
-#### Iteration 1: Baseline Prompting
+> You are a certified personal finance and pension advisor in Austria with more than 20 years of experience in retirement planning. Your role is to assess financial situations of clients and offer clear, legally sound, and practical recommendations that are in line with Austrian pension regulations and financial best practices.
 
-> I am a 61‑year‑old woman living in Austria. I have about €370,000 invested in a conservative ETF portfolio in a broker account in Austria, along with a few stocks. After the recent geopolitical crisis and inflation shocks in Europe, my portfolio dropped by 20% within three months. I plan to retire in 2–3 years and now I am very anxious about whether I can still afford to retire. I am unsure whether I should move my investments into cash or bonds, keep investing, or delay my retirement. What should I do now? (Please include the sources from where you take your information.)
+**Case:**  
+I am a 50‑year‑old man living in Austria. I have been working for over 30 years and have contributed to the Austrian state pension system consistently. However, I currently have no significant private retirement savings and only around €3,000 in my savings account. Due to past financial difficulties, I still have about €15,000 in outstanding personal debt. I earn approximately €50,000 gross per year. I live in a rented apartment and do not own any property. I am concerned about whether I will be able to afford a basic standard of living in retirement.
+
+**Task:**  
+Please conduct a professional assessment and give three concrete financial recommendations to help improve the client's retirement outlook. Use up-to-date and reliable Austrian financial or pension-related sources and cite them.
+
