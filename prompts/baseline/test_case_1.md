@@ -1,3 +1,6 @@
 # test_case_1 — baseline
 
-I am a 50 year-old man living in Austria. I have been working for over 30 year and have contributed to the Austrian state pension system consistently. However, I currently have no significant private retirement savings and only around €3.000 in my savings account. Due to past financial difficulties, I still have about €15.000 in outstanding personal debt. I earn approximately €50.000 gross per year. I live in a rented apartment and do not own any property. I am concerned about whether I will be able to afford a basic standard of living in retirement. What financial steps should I take now to improve my retirement situation? (Please include the sources from where you take your information.)
+## Iteration 1: Baseline Prompting
+
+> I am a 50‑year‑old man living in Austria. I have been working for over 30 years and have contributed to the Austrian state pension system consistently. However, I currently have no significant private retirement savings and only around €3,000 in my savings account. Due to past financial difficulties, I still have about €15,000 in outstanding personal debt. I earn approximately €50,000 gross per year. I live in a rented apartment and do not own any property. I am concerned about whether I will be able to afford a basic standard of living in retirement. What financial steps should I take now to improve my retirement situation? (Please include the sources from where you take your information.)
+
