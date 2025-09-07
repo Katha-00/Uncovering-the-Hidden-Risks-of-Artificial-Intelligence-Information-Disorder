@@ -1,7 +1,7 @@
 # Uncovering the Hidden Risks of Artificial Intelligence: Information Disorder
 
 This repository accompanies the master’s thesis *Uncovering the Hidden Risks of Artificial Intelligence: Information Disorder*.  
-It collects the materials used in the experimental study, including prompts, raw outputs from large language models (LLMs), and predefined evaluation rubrics.
+It collects all experiment materials: prompts, raw outputs from large language models (LLMs), and predefined evaluation rubrics.
 
 ---
 
@@ -11,24 +11,26 @@ It collects the materials used in the experimental study, including prompts, raw
   Exact input prompts, organized by test case and prompting strategy (baseline, chain-of-thought, role-based).
 
 - **experiments/**  
-  Raw outputs from the evaluated LLMs, structured by test case → strategy → model (ChatGPT, DeepSeek, LLaMA).
+  Raw outputs from the evaluated LLMs, structured by  
+  `experiments/<test_case>/<strategy>/models/<model>/`.  
+  Each output file is named to reflect its test case, strategy, model, and run number/date.
 
 - **evaluation/**  
-  - Global rubric: `rubric.csv` (dimensions of factual accuracy, timeliness, and contextual relevance).  
-  - Case-specific rubrics: `rubrics/test_case_1_rubric.md`, `test_case_2_rubric.md`, `test_case_3_rubric.md`.  
+  - Global rubric: `rubric.csv` (dimensions: factual accuracy, timeliness, contextual relevance).  
+  - Case-specific rubrics:  
+    - `rubrics/test_case_1_rubric.md`  
+    - `rubrics/test_case_2_rubric.md`  
+    - `rubrics/test_case_3_rubric.md`  
   - Example evaluations: `examples/`.
-
-- **outputs/**  
-  Processed or aggregated results, e.g. CSV or JSONL summaries.
 
 - **metadata/**  
   JSON schema describing the structure for standardized experiment records.
 
 - **scripts/**  
-  Helper scripts used during data collection (not required for repository navigation).
+  Helper scripts used during data collection (not required for navigation).
 
 - **data/**  
-  Optional storage for raw or processed supplementary files (currently not central to this thesis).
+  Optional storage for raw or processed supplementary material (not central to this thesis).
 
 ---
 
@@ -49,16 +51,14 @@ It collects the materials used in the experimental study, including prompts, raw
   - DeepSeek  
   - LLaMA  
 
-Each LLM output file is named systematically to reflect its test case, strategy, model, and run number/date.
-
 ---
 
 ## Navigation Guide
 
-- To see **what was asked** → check `prompts/`.  
-- To see **raw answers** from the LLMs → check `experiments/`.  
-- To see **how answers were evaluated** → check `evaluation/rubrics/` (criteria) and `evaluation/examples/` (scored examples).  
-- To see **summarized results** → check `outputs/`.  
+- To see **prompts used** → check `prompts/`.  
+- To see **raw model answers** → check `experiments/`.  
+- To see **evaluation criteria** → check `evaluation/rubrics/`.  
+- To see **scored examples** → check `evaluation/examples/`.  
 
 ---
 
