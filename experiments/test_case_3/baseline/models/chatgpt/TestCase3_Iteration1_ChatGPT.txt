@@ -1,0 +1,118 @@
+You're facing a very common and understandable concern. Retirement planning during market volatility can be deeply unsettling—especially when retirement is near. Here's a structured way to think through your situation, with practical steps and evidence-based considerations tailored to someone in your position.
+
+---
+
+## 📌 Your Situation Summary
+- **Age:** 61  
+- **Location:** Austria  
+- **Investment Portfolio:** €370,000, conservative ETF + some stocks  
+- **Loss:** ~20% (€74,000) in 3 months  
+- **Retirement timeline:** 2–3 years  
+- **Concern:** Whether to sell, shift, or delay retirement  
+
+---
+
+## ✅ 1. Assess Your Financial Need in Retirement
+Before making any investment moves, clarify:
+- Your annual spending needs in retirement (net of pensions, if any).  
+- Expected income from public pensions (e.g., *Österreichische Pensionsversicherung*), private pensions, or rental income.  
+- How long your assets need to last—life expectancy could easily be another 25–30 years.  
+
+🔍 **Tool:** Use a retirement income calculator tailored to Austrian systems. A good starting point is:  
+- [Pensionsrechner – Arbeiterkammer](https://arbeiterkammer.at)
+
+---
+
+## ✅ 2. Understand Why You’re Feeling Anxious
+A 20% drop feels scary, but context matters:
+- Conservative ETF portfolios still carry **equity risk**, and recent geopolitical and inflation events (e.g., Ukraine war, EU inflation spikes) have impacted **global markets**, including bonds.  
+- **Recency bias** makes recent losses feel worse than they are over long-term averages.  
+
+**Data:**  
+- A typical **60/40 portfolio** has returned ~5–6% annually over the long term, but has also had years with 10–20% losses (source: [Vanguard 2023 market outlook](https://advisors.vanguard.com/insights/article/marketoutlook2023)).  
+- A 20% decline, while sharp, is not unusual in crises. It doesn't necessarily require panic-selling.  
+
+---
+
+## ✅ 3. What You Should NOT Do (Based on Evidence)
+
+**Don’t sell everything and move to cash out of fear.**
+- Locking in losses turns paper declines into real ones.  
+- According to Morningstar, investors who sold during downturns **underperformed** those who stayed the course by ~2–3% annually (source: *Morningstar Behavioral Gap Study, 2020*).  
+
+**Don’t guess market timing.**
+- Timing the market consistently is extremely difficult even for professionals.  
+- Missing just the **10 best days** in the market over 20 years can reduce returns by over 40% (source: *JP Morgan Asset Management Guide to Retirement 2023*).  
+
+---
+
+## ✅ 4. What You Can Do Instead
+
+### 🧩 A. Shift from Growth to Income + Capital Preservation
+You're 2–3 years from retirement—this is a **"glidepath" stage**. You should:
+- Rebalance gradually toward a more income-focused and lower-volatility portfolio.  
+  - Example: **30% stocks / 70% bonds/cash vs. 60/40**  
+- Include **short-term government bonds** or bond ETFs with lower duration risk (especially important in inflation periods).  
+- Consider **laddered fixed income or dividend ETFs** for predictable income.  
+
+🔍 **European Bond ETF examples:**
+- iShares € Govt Bond 1-3yr UCITS ETF (IBGS)  
+- Xtrackers Eurozone Government Bond 1-3Y UCITS ETF  
+
+(Source: BlackRock and Xtrackers ETF portals)  
+
+---
+
+### 🧩 B. Establish a Cash Buffer ("Bucket Strategy")
+- Keep **1–2 years of retirement expenses** in cash or very short-term instruments (e.g., savings accounts, money market funds).  
+- This protects you from having to sell investments during a down market.  
+This strategy is backed by retirement planners like Wade Pfau and institutions like Vanguard and Fidelity.  
+
+---
+
+### 🧩 C. Stress-Test Retirement
+Simulate different scenarios using retirement planning software:
+- **Base case:** modest 3–4% annual drawdown  
+- **Bad case:** markets stay flat or decline for 3 more years  
+- **Good case:** partial recovery  
+
+Try **[FIRECalc](https://www.firecalc.com/)** or **[PortfolioVisualizer](https://www.portfoliovisualizer.com/)** for international modeling.  
+
+---
+
+### 🧩 D. Delay Retirement by 1 Year (If Feasible)
+Delaying retirement by even one year:
+- Increases pension benefits (Austrian pensions are higher the later you claim)  
+- Reduces withdrawals from your portfolio  
+- Gives markets time to recover  
+
+Even part-time work or consulting can reduce the need to draw down investments early.  
+(Source: *OECD Pensions at a Glance, Austria section*)  
+
+---
+
+## 🔄 Summary of Suggested Steps
+
+| Step | Action |
+|------|---------|
+| 1 | Estimate retirement needs & income (use AK Pensionsrechner) |
+| 2 | Avoid panic selling or timing the market |
+| 3 | Gradually shift portfolio to income & low-volatility assets |
+| 4 | Create a 1–2 year cash buffer |
+| 5 | Stress-test your retirement scenarios |
+| 6 | Consider delaying retirement by 1 year if possible |
+
+---
+
+## 🧠 Final Thoughts
+You are not alone—many pre-retirees feel this stress during downturns. The good news is:
+- You **still have time** to adjust.  
+- Your current portfolio, while temporarily hit, can still support retirement if well managed.  
+- The **most dangerous move** is acting on fear alone—decisions should be grounded in long-term planning, not short-term panic.  
+
+If you’d like, I can help you:
+- Run simulations based on your actual expenses and pensions  
+- Rebalance your ETF list toward a more defensive allocation  
+- Find a financial advisor in Austria specializing in retirement planning  
+
+👉 Would you like help with any of that?
