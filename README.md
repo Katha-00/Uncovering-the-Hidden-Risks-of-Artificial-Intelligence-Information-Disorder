@@ -57,8 +57,7 @@ It collects all experiment materials: prompts, raw outputs from large language m
 
 - To see **prompts used** → check `prompts/`.  
 - To see **raw model answers** → check `experiments/`.  
-- To see **evaluation criteria** → check `evaluation/rubrics/`.  
-- To see **scored examples** → check `evaluation/examples/`.  
+- To see **evaluation criteria** → check `evaluation/rubrics/`.   
 
 ---
 
