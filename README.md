@@ -21,7 +21,6 @@ It collects all experiment materials: prompts, raw outputs from large language m
     - `rubrics/test_case_1_rubric.md`  
     - `rubrics/test_case_2_rubric.md`  
     - `rubrics/test_case_3_rubric.md`  
-  - Example evaluations: `examples/`.
 
 - **metadata/**  
   JSON schema describing the structure for standardized experiment records.
